@@ -1,0 +1,6 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0,0,64,64">
+	<desc>local_atm icon - Licensed under Apache License v2.0 (http://www.apache.org/licenses/LICENSE-2.0) - Created with Iconfu.com - Derivative work of Material icons (Copyright Google Inc.)</desc>
+	<g fill="#f08080" fill-rule="nonzero" style="mix-blend-mode: normal">
+		<path d="M58.67,16v32c0,2.96 -2.37,5.33 -5.33,5.33h-42.67c-2.96,0 -5.33,-2.37 -5.33,-5.33l0.03,-32c0,-2.96 2.35,-5.33 5.31,-5.33h42.67c2.96,0 5.33,2.37 5.33,5.33zM53.33,16h-42.67v32h42.67zM29.33,42.67h-5.33v-5.33h10.67v-2.67h-8c-1.47,0 -2.67,-1.2 -2.67,-2.67v-8c0,-1.47 1.2,-2.67 2.67,-2.67h2.67v-2.67h5.33v2.67h5.33v5.33h-10.67v2.67h8c1.47,0 2.67,1.2 2.67,2.67v8c0,1.47 -1.2,2.67 -2.67,2.67h-2.67v2.67h-5.33z"/>
+	</g>
+</svg>
